@@ -1,4 +1,10 @@
 # ofxFaceTracker2 - Face Substitution
+
+live video input + `src.jpg` create:
+
+![Example live output](https://github.com/xanpj/ofxFaceTracker2-facesubstitution/blob/main/example1.png)
+
+
 This code provides an example of using the [FaceSubstitution](https://github.com/arturoc/FaceSubstitution) library with ofxFaceTracker2.
 It is based on [samhains](https://github.com/samhains)'s [implementation](https://github.com/HalfdanJ/ofxFaceTracker2/pull/42) and modified with a new kalman filter and `glm::vec` commands to work with oF 0.10 and up.
 
